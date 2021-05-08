@@ -4,18 +4,20 @@
     "url": "https://api.ihateani.me/echo",
     "icon": "https://favicons.githubusercontent.com/api.ihateani.me",
     "slug": "ihateani-me-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 498,
-    "timeWeek": 628,
-    "timeMonth": 628,
-    "timeYear": 628,
-    "dailyMinutesDown": {}
+    "time": 591,
+    "timeDay": 453,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
+    "dailyMinutesDown": {
+      "2021-05-08": 0
+    }
   },
   {
     "name": "ihateani.me [cdn]",
