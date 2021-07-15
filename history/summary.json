@@ -46,10 +46,10 @@
     "url": "https://git.ihateani.me/",
     "icon": "https://favicons.githubusercontent.com/git.ihateani.me",
     "slug": "ihateani-me-git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -57,7 +57,9 @@
     "timeWeek": 408,
     "timeMonth": 469,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 1
+    }
   },
   {
     "name": "ihateani.me [web]",
@@ -86,10 +88,10 @@
     "url": "https://mizore.ihateani.me/vthell/ping",
     "icon": "https://favicons.githubusercontent.com/mizore.ihateani.me",
     "slug": "vt-hell-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
@@ -97,16 +99,18 @@
     "timeWeek": 503,
     "timeMonth": 552,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 1
+    }
   },
   {
     "name": "VTHell [web]",
     "url": "https://vthell.ihateani.me/",
     "icon": "https://favicons.githubusercontent.com/vthell.ihateani.me",
     "slug": "vt-hell-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,6 +119,8 @@
     "timeWeek": 425,
     "timeMonth": 420,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 0
+    }
   }
 ]
