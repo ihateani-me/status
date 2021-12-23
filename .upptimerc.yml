@@ -12,7 +12,7 @@ sites:
   - name: "ihateani.me [web]"
     url: https://ihateani.me/
   - name: "VTHell [api]"
-    url: https://mizore.ihateani.me/vthell/ping
+    url: https://mizore.ihateani.me/vthell
   - name: "VTHell [web]"
     url: https://vthell.ihateani.me/
 
