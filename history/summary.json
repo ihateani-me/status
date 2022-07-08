@@ -12,7 +12,7 @@
     "uptimeYear": "99.91%",
     "time": 461,
     "timeDay": 612,
-    "timeWeek": 368,
+    "timeWeek": 394,
     "timeMonth": 445,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "uptimeYear": "99.91%",
     "time": 551,
     "timeDay": 608,
-    "timeWeek": 406,
+    "timeWeek": 438,
     "timeMonth": 517,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -413,18 +413,19 @@
     "icon": "https://favicons.githubusercontent.com/vthell.ihateani.me",
     "slug": "vt-hell-web",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.95%",
+    "uptimeDay": "93.93%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.94%",
     "time": 246,
     "timeDay": 182,
     "timeWeek": 191,
     "timeMonth": 144,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2022-07-07": 0,
+      "2022-07-08": 55,
+      "2022-07-07": 32,
       "2021-09-03": 250
     }
   }
