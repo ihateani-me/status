@@ -6,8 +6,8 @@
     "slug": "ihateani-me-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 569,
@@ -16,7 +16,7 @@
     "timeMonth": 682,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2023-08-06": 3,
+      "2023-08-06": 6,
       "2023-05-30": 36,
       "2022-11-21": 19
     }
@@ -26,19 +26,19 @@
     "url": "https://p.ihateani.me/",
     "icon": "https://icons.duckduckgo.com/ip3/p.ihateani.me.ico",
     "slug": "ihateani-me-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 758,
-    "timeWeek": 707,
-    "timeMonth": 661,
-    "timeYear": 746,
+    "time": 718,
+    "timeDay": 5214,
+    "timeWeek": 1827,
+    "timeMonth": 942,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-08-06": 2,
+      "2023-08-06": 4,
       "2022-11-21": 17
     }
   },
@@ -99,7 +99,7 @@
     "timeMonth": 1380,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2023-08-06": 219,
+      "2023-08-06": 222,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-08-06": 219,
+      "2023-08-06": 222,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
