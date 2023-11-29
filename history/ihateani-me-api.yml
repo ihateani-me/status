@@ -1,7 +1,7 @@
 url: https://api.ihateani.me/echo
-status: down
-code: 521
-responseTime: 184
-lastUpdated: 2023-11-29T09:39:16.298Z
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2023-11-29T09:44:27.123Z
 startTime: 2021-05-04T16:28:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
