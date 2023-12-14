@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 584,
-    "timeDay": 557,
-    "timeWeek": 505,
+    "time": 582,
+    "timeDay": 423,
+    "timeWeek": 475,
     "timeMonth": 538,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 803,
-    "timeDay": 586,
-    "timeWeek": 565,
-    "timeMonth": 550,
-    "timeYear": 811,
+    "timeDay": 567,
+    "timeWeek": 558,
+    "timeMonth": 555,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2023-11-10": 30
     }
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ihateani.me.ico",
     "slug": "ihateani-me-git",
     "status": "down",
-    "uptime": "76.68%",
+    "uptime": "76.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 444,
-    "timeWeek": 379,
-    "timeMonth": 388,
-    "timeYear": 524,
+    "timeDay": 418,
+    "timeWeek": 366,
+    "timeMonth": 393,
+    "timeYear": 523,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 272,
-    "timeDay": 98,
-    "timeWeek": 123,
-    "timeMonth": 142,
-    "timeYear": 231,
+    "time": 268,
+    "timeDay": 65,
+    "timeWeek": 119,
+    "timeMonth": 138,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-03-12": 56,
       "2023-03-11": 2
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mizore.ihateani.me.ico",
     "slug": "vt-hell-api",
     "status": "down",
-    "uptime": "52.20%",
+    "uptime": "52.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.05%",
     "uptimeMonth": "1.39%",
     "uptimeYear": "0.01%",
     "time": 913,
-    "timeDay": 857,
-    "timeWeek": 793,
+    "timeDay": 707,
+    "timeWeek": 754,
     "timeMonth": 834,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2023-12-13": 39,
+      "2023-12-14": 39,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -459,8 +460,7 @@
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
-      "2022-12-15": 1440,
-      "2022-12-14": 1440
+      "2022-12-15": 1440
     }
   },
   {
@@ -469,18 +469,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vthell.ihateani.me.ico",
     "slug": "vt-hell-web",
     "status": "down",
-    "uptime": "45.06%",
+    "uptime": "45.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 165,
+    "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 39,
+      "2023-12-14": 39,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -843,8 +844,7 @@
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
-      "2022-12-15": 1440,
-      "2022-12-14": 1440
+      "2022-12-15": 1440
     }
   }
 ]
